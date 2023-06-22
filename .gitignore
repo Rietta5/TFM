@@ -1,0 +1,17 @@
+*/wandb/*
+artifacts/
+.ipynb_checkpoints/
+*.ipynb_checkpoints/*
+*.png
+*.jpg
+checkpoint
+run_nb*
+logs/
+wandb/
+*.h5
+*.pkl
+*.sh
+*.sub
+*.csv
+*.index
+*.data-*
